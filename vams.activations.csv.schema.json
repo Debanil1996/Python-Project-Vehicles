@@ -1,0 +1,162 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "activation_id",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "champion_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "champion_uuid_id",
+      "type": "string",
+      "format": "uuid"
+    },
+    {
+      "name": "contractPage",
+      "type": "string",
+      "format": "uri"
+    },
+    {
+      "name": "contractStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "documentStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "drivingLicense",
+      "type": "boolean",
+      "format": "default"
+    },
+    {
+      "name": "financierInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "healthInsurance",
+      "type": "boolean",
+      "format": "default"
+    },
+    {
+      "name": "helmetNumber",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "lastUpdateTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "nameOfFleetOfficer",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "parent_activation_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "platformInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "prospect_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "serviceType",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleOptions",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicle_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "prospectLocation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleLocation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contractPic",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contract_uuid_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championName",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championPhoneNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championEmailId",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contract_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "paymentInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "paymentStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "activationTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleCity",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

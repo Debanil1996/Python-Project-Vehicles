@@ -1,0 +1,592 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicle_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleType",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleManufacturer",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleLocation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "platformInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "odometerReading",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "vehicleTimeStamp",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleModel",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastUpdateTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleTrim",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "createdTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "financierInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "hpDays",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "mileage",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "pricingTemplate",
+      "type": "string",
+      "format": "uuid"
+    },
+    {
+      "name": "serviceType",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "chassisNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "engineNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleColor",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "OEM_vendorName",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "SIM_serialNo",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "device_IMEI",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "ignitionNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "month",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "phoneNumber",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "plateNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "recieverName",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "year",
+      "type": "year",
+      "format": "default"
+    },
+    {
+      "name": "documentStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contractPage",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contractStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "drivingLicense",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "healthInsurance",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "helmetNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "prospect_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleOptions",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "champion_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicle_uuid_id",
+      "type": "string",
+      "format": "uuid"
+    },
+    {
+      "name": "contract_uuid_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "v1_contract_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "v1_status",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleCity",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleCountry",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championEmailId",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championName",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "championPhoneNumber",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "champion_uuid_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "contract_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "date_of_vehicle_delivery",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "license_expiration_date",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo._id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.champion_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.comments",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[0]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[1]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[2]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[3]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[4]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[5]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[6]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[7]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[8]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.itemList[9]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.maintenanceOverride",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.odometerReading",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.reason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.retrievalRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.subReason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.timeOffEndTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.timeOffRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo.timeOffStartTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.documentStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.lastUpdateTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.movementType",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.nameOfFleetOfficer",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.parent_movement_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.pickUpInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.transferInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.vehicleLocation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.vehicle_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.movement_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleState",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "deactivateRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "retrievalRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.maintenanceStatus",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastActivation_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "prospectLocation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkOutInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.pickUpInfo.activation_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.pickUpInfo.maintenanceOverride",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "activationTime",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.comments",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[0]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[1]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[2]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[3]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[4]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[5]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[6]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[7]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.itemList[8]",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.odometerReading",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.reason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.retrievalRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.subReason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.checkInInfo.timeOffRequest_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "field1",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "refurbished",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.activation_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.odometerReading",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.reason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "lastMovementInfo.subReason",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "vehicleOwnership",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
