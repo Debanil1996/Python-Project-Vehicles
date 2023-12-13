@@ -45,7 +45,7 @@ First all the operations corresponding to Vehicle Management System is related t
 Here we are denoting 3 business models based on which the architecture is made about .
 1. **Vehicles** - This is the business model which is the base like these are the vehicles which the customer will utilize or take a rent of these vehicles from the business client .
 1. **Prospects** - This is the next business model corresponding to the customers who have came to take up the vehicles
-
+1. **Champions** - This is the next ongoing business model corresponding to the customers who are potential prospects binded with the vehicles and are ready to take out the vehicle . 
 
 ---
 
@@ -54,7 +54,7 @@ Here we are denoting 3 business models based on which the architecture is made a
 |    | Feature            | Description                                                                                                        |
 |----|--------------------|--------------------------------------------------------------------------------------------------------------------|
 | ⚙️ | **Architecture**   | The architecture is a single Jupyter notebook. Data preprocessing, model training, and visualization occur linearly, with less focus on system design. |
-| 📄 | **Documentation**  | Lacking inline documentation, making it difficult to infer author's intentions. Docstrings for function declarations could enhance understanding. |
+| 📄 | **Documentation**  | The flow is corresponding to vehicles which are used by customers to send accross the systems .The Architecture is like [architecturelink](./Revised%20V1%20toV2%20Flow%20in%20Production-Activation%20Flow.jpg) |
 | 🔗 | **Dependencies**   | Main dependencies are pandas, numpy, matplotlib, and sklearn, which cover a broad range of data processing, analysis, visualization and machine learning.|
 | 🧩 | **Modularity**     | Modularity is limited due to the use of a single notebook. However, logical separation of code cells partially compensates for this.|
 
