@@ -66,10 +66,12 @@ Here we are denoting 3 business models based on which the architecture is made a
 
 ```sh
 └── Python-Project-Vehicles/
-    ├── index.ipynb
+    ├── MachineLearning.ipynb (Click on to See **Machine Learning** )
+    ├── dataScience.ipynb (Click on to See **Data Science** )
     ├── requirements.txt
 
 ```
+
 
 ---
 
