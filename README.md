@@ -39,8 +39,8 @@
 
 The Python Vehicle Project is a data-driven, machine learning Python initiative designed to analyze and process vehicle-related data. Using a range of libraries including pandas, numpy, matplotlib, and sklearn, it performs data manipulation, numerical computations, data visualization and applies machine learning algorithms. This offering posits a compelling proposition for those seeking to delve into automotive analytics and predictive modelling.
 
-Here this is a system where we are analyzing a Vehicle Management System Sample where the main purpose of this architecture is that here we can see how vehicles are used in a business similar to Zoom Car Rental System . 
-First all the operations corresponding to Vehicle Management System is related to different Statuses mainly the document Status where the Vehicle undergoes operation to Move from the Business Premises to customer
+Here this is a system where we are analyzing a AirBus Management System Sample where the main purpose of this architecture is that here we can see how vehicles are used in a business similar to  Car Rental System connecting Drivers with Airbus
+First all the operations corresponding to AirBus Management System is related to different Statuses mainly the document Status where the Vehicle undergoes operation to Move from the Business Premises to customer
 
 Here we are denoting 3 business models based on which the architecture is made about .
 1. **Vehicles** - This is the business model which is the base like these are the vehicles which the customer will utilize or take a rent of these vehicles from the business client .
